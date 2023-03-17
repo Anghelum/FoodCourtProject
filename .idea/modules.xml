@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Food court project.iml" filepath="$PROJECT_DIR$/.idea/Food court project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodCourtServices.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodCourtServices.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodCourtServices.power-up-arquetipo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodCourtServices.power-up-arquetipo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MessengerServices.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MessengerServices.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UsuaryServices.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UsuaryServices.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.pragma.powerup.FoodCourtServices.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.pragma.powerup.FoodCourtServices.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.pragma.powerup.MessengerServices.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.pragma.powerup.MessengerServices.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.pragma.powerup.UsuaryServices.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.pragma.powerup.UsuaryServices.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.pragma.powerup.power-up-arquetipo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.pragma.powerup.power-up-arquetipo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/power-up-arquetipo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/power-up-arquetipo.test.iml" />
+    </modules>
+  </component>
+</project>
